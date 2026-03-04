@@ -1,0 +1,9 @@
+firebase-admin==6.4.0
+cryptography==42.0.5
+web3==6.15.1
+requests==2.31.0
+schedule==1.2.0
+python-dotenv==1.0.0
+pydantic==2.6.1
+typing-extensions==4.10.0
+google-cloud-firestore==2.15.0
